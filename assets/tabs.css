@@ -1,0 +1,20 @@
+.custom-tabs-container {
+    width: 85%;
+}
+
+.custom-tabs {
+    color: black;
+    font-size: 24px;
+    background-color: #f9f9f9;
+    padding: 0px 24px;
+    border-bottom: 1px solid #d6d6d6;
+}
+
+.custom-tab--selected {
+    color: black;
+    font-size: 24px;
+    box-shadow: 1px 1px 0px rgb(81, 70, 70);
+    border-left: 1px solid lightgrey !important;
+    border-right: 1px solid lightgrey !important;
+    border-top: 6px solid #5209e3 !important;
+}
